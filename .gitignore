@@ -1,0 +1,3 @@
+# Ignorar los directorios: mlartifacts y mlruns
+mlartifacts/
+mlruns/
