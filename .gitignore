@@ -1,3 +1,6 @@
-# Ignorar los directorios: mlartifacts y mlruns
+# Ignorar los directorios: mlartifacts y mlruns de MLflow
 mlartifacts/
 mlruns/
+
+# Ignorar los checkpoints de Jupyter
+.ipynb_checkpoints/
